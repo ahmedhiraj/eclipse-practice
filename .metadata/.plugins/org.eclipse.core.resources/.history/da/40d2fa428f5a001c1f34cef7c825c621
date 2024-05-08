@@ -1,0 +1,14 @@
+
+public class Practice {
+
+	public static void main(String[] args) {
+		BankView bv=new BankView();
+		bv.setData(25,"Hiraj",123.4f);
+		System.out.println(bv.getId());
+		System.out.println(bv.getName());
+		System.out.println(bv.getBalance());
+		
+	}
+
+}
+

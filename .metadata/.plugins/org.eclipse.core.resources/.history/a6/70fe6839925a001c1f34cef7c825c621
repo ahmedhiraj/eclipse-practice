@@ -1,0 +1,11 @@
+
+public class Practice {
+
+	static
+	{
+		System.out.println("Hi");
+		
+	}
+
+}
+
